@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    margin-top: 40px;
+    border: 2px solid black;
+}
+#scoreText{
+    font-family: "Arial Hebrew Scholar";
+    font-size: 100px;
+}
+#resetBtn{
+    font-family: "Arial Hebrew Scholar";
+    font-size: 22px;
+    height: 50px;
+    width: 100px;
+    border: 4px solid teal;
+    border-radius: 15px;
+    cursor: pointer;
+}
